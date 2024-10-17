@@ -3,8 +3,7 @@ Go Developer Evaluation Program
 [![Go](https://github.com/HunterZhang400/go-homework-count-code-comments/workflows/Go/badge.svg)](https://github.com/HunterZhang400/go-homework-count-code-comments/actions)
 [![Go Doc](https://godoc.org/github.com/HunterZhang400/go-homework-count-code-comments?status.svg)](https://pkg.go.dev/github.com/HunterZhang400/go-homework-count-code-comments)
 [![Go Report](https://goreportcard.com/badge/github.com/HunterZhang400/go-homework-count-code-comments)](https://goreportcard.com/report/github.com/HunterZhang400/go-homework-count-code-comments)
-[![Coverage Status](https://coveralls.io/repos/github/HunterZhang400/go-homework-count-code-comments/badge.svg?branch=master)](https://coveralls.io/github/HunterZhang400/go-homework-count-code-comments?branch=master)
-
+[![Coverage Status](https://coveralls.io/repos/github/HunterZhang400/go-homework-count-code-comments/badge.svg?branch=main)](https://coveralls.io/github/HunterZhang400/go-homework-count-code-comments?branch=main)
 ## Code Interview Process
 
 Please follow the instructions stated below and fulfill the [objective](#Objective)
